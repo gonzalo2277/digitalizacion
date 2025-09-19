@@ -1,0 +1,2 @@
+# digitalizacion
+Modulo de digitalización
