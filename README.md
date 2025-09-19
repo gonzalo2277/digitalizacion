@@ -1,2 +1,3 @@
-# digitalizacion
-Modulo de digitalización
+encabezado 1
+encabezado 2
+encabezado 3
